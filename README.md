@@ -2,13 +2,13 @@
 
 React app with react frontend
 
-###Develop
-####Backend
-cd *this project*
+### Develop
+#### Backend
+cd "*this project*"
 
 > python main.py
 
-####Frontend
+#### Frontend
 cd ./frontend
 
 > npm run dev
