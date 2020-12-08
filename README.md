@@ -11,4 +11,6 @@ cd "*this project*"
 #### Frontend
 cd ./frontend
 
-> npm run dev
+> *"npm run dev"*
+ or
+> *"npm run build"*
